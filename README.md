@@ -1,19 +1,35 @@
-# ALFAGIFT
-Tools Alfagift
-<center><img src="image.png" alt="tools"></center>
+# SCRIPT BOT ALFAGIFT - Version 4.6
+Tools Script Bot Alfagift
+<center><img src="alfas.png" alt="tools"></center>
 
 Fiture Tools ALFAGIFT
 - [x] Isi Keranjang
 - [x] Checking Keranjang
 - [x] Checking Vocher
+- [x] Reedem Vocher
 - [x] Checking Transaksi
 - [x] Claim Vocher
 - [x] Delete Keranjang
 - [x] Checkout Barang
-- [x] Registrasi
-- [x] Generate DeviceID for account
-- [x] Search Toko Terdekat
-- [x] Getting Barcode Card Alfagift
+- [x] Registrasi (Manual/Auto)
+- [x] Generate Barcode No Ponta
+- [x] Search Toko Alfagift
+- [x] Checking Account Actived
+- [x] Change Password
+
+Create & Edit file
+- [x] config.json ( for setting tools )
+- [x] data_login.txt ( for setting account )
+
+Files saved tools
+- [x] Data Transaksi
+- [x] Data Checkout
+- [x] Data Registrasi
+- [x] Data Checking Account
+- [x] Data Generate Password
+- [x] Data Checking Vocher
+- [x] Data ChangePassword
+
 
 Contact admin for [Order Script](https://api.whatsapp.com/send?phone=62895375136311&text=Hai%2C%20Order%20script%20ALFAGIFT%20nya%20dong%20bosku%2C).<br>
 
