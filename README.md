@@ -1,4 +1,4 @@
-# SCRIPT BOT ALFAGIFT - Version 4.6
+# SCRIPT BOT ALFAGIFT UPDATE BYPASS ANTI BANNED
 Tools Script Bot Alfagift
 <center><img src="xdf.png" alt="tools"></center>
 
