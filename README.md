@@ -1,6 +1,6 @@
 # SCRIPT BOT ALFAGIFT - Version 4.6
 Tools Script Bot Alfagift
-<center><img src="alfas.png" alt="tools"></center>
+<center><img src="xdf.png" alt="tools"></center>
 
 Fiture Tools ALFAGIFT
 - [x] Isi Keranjang
@@ -11,7 +11,7 @@ Fiture Tools ALFAGIFT
 - [x] Claim Vocher
 - [x] Delete Keranjang
 - [x] Checkout Barang
-- [x] Registrasi (Manual/Auto)
+- [x] Registrasi (Manual/Auto) New Bypass Anti Banned Account
 - [x] Generate Barcode No Ponta
 - [x] Search Toko Alfagift
 - [x] Checking Account Actived
